@@ -1,3 +1,7 @@
 "Hello, World!" 
 "New line added." 
+ HEAD
 "Changes in master." 
+
+"Changes in branch1." 
+ branch1
